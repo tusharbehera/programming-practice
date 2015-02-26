@@ -1,0 +1,11 @@
+Problem
+========
+Find the number of unit squares lying between two concentric circles?
+
+The radius of the circles are multiple of the unit.
+
+Constraints
+============
+
+The first input is the radius of the inner circle, the second input is the
+radius of the outer circle. The squares are lying at unit positions.
